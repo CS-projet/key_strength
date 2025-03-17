@@ -1,1 +1,1 @@
-# key_strength
+this repository contains python code of the model, dataset and the model h5 of the key_strength model. Its purpose of this model is to predict strength of the cyprted key right after the cipher file gives it as the result.
